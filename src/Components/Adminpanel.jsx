@@ -6,7 +6,7 @@ const Adminpanel = () => {
    <>
       <Navbar/>
       <div>
-            Admin panel
+            Admin panel test
       </div>
    </>
   )
