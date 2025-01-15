@@ -12,7 +12,7 @@ import {acData} from '../shoping/data/ac'
 
 const Shoping = () => {
    console.log(mobileData);
-  const mobile=mobileData.slice(0,5);
+  const mobile=mobileData.slice(0,4);
   const computer=computerData.slice(0,5);
   const kitchen=kitchenData.slice(0,5);
   const fridge=fridgeData.slice(0,5);
