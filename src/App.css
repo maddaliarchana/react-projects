@@ -307,4 +307,16 @@ ul li{
     padding: 20px;
     text-transform: capitalize;
   }
-
+  .portfolio{
+    background-color: white;;
+    color:black;
+    ul{
+      background-color: red;;
+    }
+  }
+.testp{
+  padding:20px;
+  border:2px solid green;
+  margin: 20px;
+  background-color: aqua;
+}
